@@ -1,0 +1,1418 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Neetu's Kitchen Nagawara | Authentic Home-Style North & South Indian Food in Bangalore</title>
+    <meta name="description" content="Welcome to Neetu's Kitchen in Nagawara, Bangalore. Serving hygienic home-style North & South Indian meals, crispy Dosas, signature Chicken Rolls, Biryani, and Tiffin subscriptions. Order online via WhatsApp or Swiggy!" />
+    <meta name="keywords" content="Neetu's Kitchen Nagawara, Neethu's Kitchen Bangalore, Nagawara restaurants, home style food Hebbal, Ghee Karam Dosa Nagawara, Chicken Roll Nagawara, Swiggy Nagawara food delivery, tiffin service Hebbal Bangalore" />
+    <meta name="author" content="Neetu's Kitchen Nagawara" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Neetu's Kitchen Nagawara | Authentic Home-Style Food" />
+    <meta property="og:description" content="Craving hygienic, delicious home-cooked North & South Indian food? Visit Neetu's Kitchen in Nagawara or order instantly via WhatsApp & Swiggy!" />
+    <meta property="og:type" content="restaurant.restaurant" />
+    <meta property="og:url" content="https://neetuskitchennagwara.in" />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=1200&q=80" />
+    <meta property="og:site_name" content="Neetu's Kitchen Nagawara" />
+    <meta property="og:locale" content="en_IN" />
+
+    <!-- Google Fonts: Playfair Display + Plus Jakarta Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+    <!-- Lucide Icons CDN -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <!-- Styles & Scripts -->
+    <link rel="stylesheet" href="/style.css" />
+    <script type="module" src="/script.js"></script>
+
+    <!-- Schema.org Local Business / Restaurant Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Restaurant",
+      "name": "Neetu's Kitchen Nagawara",
+      "alternateName": "Neethu's Kitchen & Sips Nagawara",
+      "image": [
+        "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "@id": "https://neetuskitchennagwara.in",
+      "url": "https://neetuskitchennagwara.in",
+      "telephone": "+91-9886012345",
+      "priceRange": "₹100 - ₹350",
+      "menu": "https://neetuskitchennagwara.in/#menu",
+      "servesCuisine": [
+        "North Indian",
+        "South Indian",
+        "Biryani",
+        "Rolls & Wraps",
+        "Home-style Indian Tiffin"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3rd Cross Road, Munivenkatappa Layout, Vyalikaval HBCS Layout",
+        "addressLocality": "Nagawara, Hebbal",
+        "addressRegion": "Bengaluru, Karnataka",
+        "postalCode": "560045",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0416,
+        "longitude": 77.6167
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+          ],
+          "opens": "08:00",
+          "closes": "22:30"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "214"
+      }
+    }
+    </script>
+  </head>
+
+  <body class="bg-[#FDFBF7] text-[#3E362E] antialiased selection:bg-[#5F6F52] selection:text-white">
+    <!-- Top Announcement Bar -->
+    <div class="bg-[#5F6F52] text-white text-xs sm:text-sm py-2 px-4 text-center font-medium shadow-sm border-b border-[#E6E0D4]">
+      <div class="max-w-7xl mx-auto flex items-center justify-center gap-2 flex-wrap">
+        <span class="inline-block w-2 h-2 rounded-full bg-amber-300 animate-pulse"></span>
+        <span>🔥 <strong>Special Today:</strong> Signature Ghee Karam Dosa & Spicy Chicken Rolls • Free Home Delivery in Nagawara within 3 km!</span>
+        <a href="#menu" class="underline font-semibold hover:text-amber-200 ml-1">Order Now →</a>
+      </div>
+    </div>
+
+    <!-- 1. Sticky Navigation Bar -->
+    <header id="navbar" class="navbar-sticky sticky top-0 z-40 w-full transition-all duration-300 border-b border-[#E6E0D4] bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+        <!-- Logo -->
+        <a href="#home" class="flex items-center gap-3 group">
+          <div class="w-11 h-11 rounded-full bg-[#5F6F52] flex items-center justify-center text-white font-serif italic text-xl shadow-md group-hover:scale-105 transition-transform">
+            N
+          </div>
+          <div>
+            <span class="font-display text-xl sm:text-2xl font-bold tracking-tight text-[#3E362E] block leading-none">
+              Neetu's <span class="text-[#5F6F52] font-serif italic">Kitchen</span>
+            </span>
+            <span class="text-[11px] font-semibold tracking-wider uppercase text-[#A64B2A]">Nagawara • Bangalore</span>
+          </div>
+        </a>
+
+        <!-- Desktop Navigation Links -->
+        <nav class="hidden lg:flex items-center gap-8 font-medium text-slate-700 text-sm">
+          <a href="#home" class="hover:text-red-600 transition-colors">Home</a>
+          <a href="#about" class="hover:text-red-600 transition-colors">About</a>
+          <a href="#menu" class="hover:text-red-600 transition-colors">Menu & Services</a>
+          <a href="#gallery" class="hover:text-red-600 transition-colors">Gallery</a>
+          <a href="#hours" class="hover:text-red-600 transition-colors">Hours</a>
+          <a href="#reviews" class="hover:text-red-600 transition-colors">Reviews</a>
+          <a href="#faq" class="hover:text-red-600 transition-colors">FAQ</a>
+          <a href="#contact" class="hover:text-red-600 transition-colors">Contact & Map</a>
+        </nav>
+
+        <!-- Live Status Badge & Action CTAs -->
+        <div class="hidden sm:flex items-center gap-4">
+          <!-- Live Status Badge -->
+          <div id="live-status-badge" class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#F9F7F2] border border-[#E6E0D4] shadow-sm" title="We are open daily 8:00 AM to 10:30 PM">
+            <span id="live-status-dot" class="w-2.5 h-2.5 rounded-full bg-[#5F6F52] animate-pulse"></span>
+            <span id="live-status-text" class="text-xs font-semibold text-[#5F6F52] tracking-wide">OPEN NOW • Closes 10:30 PM</span>
+          </div>
+
+          <!-- Call Button (Header) -->
+          <a href="tel:+919886012345" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#E6E0D4] text-[#3E362E] font-semibold text-xs uppercase tracking-widest hover:border-[#5F6F52] hover:text-[#5F6F52] transition-all">
+            <i data-lucide="phone-call" class="w-4 h-4 text-[#A64B2A]"></i>
+            <span>Call</span>
+          </a>
+
+          <!-- WhatsApp Button (Header) -->
+          <a href="https://wa.me/919886012345?text=Hello%20Neetu's%20Kitchen!%20I%20would%20like%20to%20order%20food." target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-[#5F6F52] hover:bg-[#4C5942] text-white font-bold text-xs uppercase tracking-widest shadow-md hover:shadow-lg transition-all">
+            <i data-lucide="message-circle" class="w-4 h-4"></i>
+            <span>Order Now</span>
+          </a>
+        </div>
+
+        <!-- Mobile Hamburger Button -->
+        <button id="mobile-menu-btn" type="button" aria-label="Open navigation menu" class="lg:hidden p-2.5 rounded-xl border border-slate-200 text-slate-700 hover:bg-slate-100 transition-colors">
+          <i data-lucide="menu" class="w-6 h-6"></i>
+        </button>
+      </div>
+    </header>
+
+    <!-- Mobile Drawer Overlay & Menu -->
+    <div id="mobile-overlay" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 hidden opacity-0 transition-opacity duration-300"></div>
+    <aside id="mobile-drawer" class="fixed top-0 right-0 z-50 w-80 max-w-full h-full bg-white shadow-2xl flex flex-col justify-between p-6 transform translate-x-full transition-transform duration-300 ease-in-out">
+      <div>
+        <div class="flex items-center justify-between pb-6 border-b border-slate-100">
+          <span class="font-display text-xl font-bold text-slate-900">Neetu's <span class="text-red-600">Kitchen</span></span>
+          <button id="mobile-menu-close" type="button" aria-label="Close menu" class="p-2 rounded-lg text-slate-500 hover:bg-slate-100">
+            <i data-lucide="x" class="w-6 h-6"></i>
+          </button>
+        </div>
+
+        <!-- Mobile Links -->
+        <nav class="flex flex-col gap-4 mt-6 font-semibold text-base text-slate-700">
+          <a href="#home" class="mobile-nav-link flex items-center justify-between py-2 border-b border-slate-50 hover:text-red-600"><span>Home</span> <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400"></i></a>
+          <a href="#about" class="mobile-nav-link flex items-center justify-between py-2 border-b border-slate-50 hover:text-red-600"><span>About Us</span> <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400"></i></a>
+          <a href="#menu" class="mobile-nav-link flex items-center justify-between py-2 border-b border-slate-50 hover:text-red-600"><span>Services & Menu</span> <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400"></i></a>
+          <a href="#gallery" class="mobile-nav-link flex items-center justify-between py-2 border-b border-slate-50 hover:text-red-600"><span>Photo Gallery</span> <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400"></i></a>
+          <a href="#hours" class="mobile-nav-link flex items-center justify-between py-2 border-b border-slate-50 hover:text-red-600"><span>Business Hours</span> <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400"></i></a>
+          <a href="#reviews" class="mobile-nav-link flex items-center justify-between py-2 border-b border-slate-50 hover:text-red-600"><span>Customer Reviews</span> <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400"></i></a>
+          <a href="#faq" class="mobile-nav-link flex items-center justify-between py-2 border-b border-slate-50 hover:text-red-600"><span>FAQ</span> <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400"></i></a>
+          <a href="#contact" class="mobile-nav-link flex items-center justify-between py-2 hover:text-red-600"><span>Contact & Google Map</span> <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400"></i></a>
+        </nav>
+      </div>
+
+      <!-- Mobile Drawer Footer Actions -->
+      <div class="space-y-3 pt-6 border-t border-slate-100">
+        <a href="https://wa.me/919886012345?text=Hello%20Neetu's%20Kitchen!%20I%20would%20like%20to%20order%20food." target="_blank" rel="noopener noreferrer" class="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-emerald-600 text-white font-semibold shadow-md">
+          <i data-lucide="message-circle" class="w-5 h-5"></i>
+          <span>Order on WhatsApp</span>
+        </a>
+        <a href="tel:+919886012345" class="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-xl border-2 border-slate-200 text-slate-800 font-semibold hover:border-red-600">
+          <i data-lucide="phone-call" class="w-5 h-5 text-red-600"></i>
+          <span>Call +91 98860 12345</span>
+        </a>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main>
+      <!-- 2. SECTION 1: HOME (Hero Section) -->
+      <section id="home" class="relative overflow-hidden pt-8 pb-16 lg:pt-14 lg:pb-24 hero-gradient border-b border-amber-100/60">
+        <div class="absolute inset-0 hero-pattern opacity-60 pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+            <!-- Left Hero Text -->
+            <div class="lg:col-span-7 space-y-6 text-center lg:text-left">
+              <!-- Location Pill -->
+              <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#F9F7F2] text-[#A64B2A] text-xs sm:text-sm font-semibold border border-[#E6E0D4]">
+                <i data-lucide="map-pin" class="w-4 h-4 text-[#A64B2A]"></i>
+                <span>Nagawara • Vyalikaval HBCS Layout • Hebbal, Bangalore</span>
+              </div>
+
+              <h1 class="font-display text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-[#3E362E] leading-[1.12]">
+                Authentic <span class="text-[#A64B2A] font-serif italic">Home-Style</span> North & South Indian Flavors
+              </h1>
+
+              <p class="text-base sm:text-lg text-[#8B7E74] max-w-2xl mx-auto lg:mx-0 leading-relaxed">
+                Made with love, fresh daily ingredients, and zero artificial preservatives. From our signature 
+                <strong class="text-[#3E362E]">Ghee Karam Dosa</strong> & <strong class="text-[#3E362E]">Chicken Rolls</strong> 
+                to wholesome daily tiffin meals for your family and office.
+              </p>
+
+              <!-- Quick Highlights -->
+              <div class="flex flex-wrap justify-center lg:justify-start items-center gap-6 py-2 text-sm font-semibold text-[#8B7E74]">
+                <div class="flex items-center gap-2">
+                  <span class="w-6 h-6 rounded-full bg-[#F9F7F2] border border-[#E6E0D4] text-[#A64B2A] flex items-center justify-center font-bold text-xs">★</span>
+                  <span><strong class="text-[#3E362E]">4.8 / 5</strong> Google & Swiggy Rating</span>
+                </div>
+                <div class="flex items-center gap-2">
+                  <i data-lucide="shield-check" class="w-5 h-5 text-[#5F6F52]"></i>
+                  <span>100% Hygienic Kitchen</span>
+                </div>
+                <div class="flex items-center gap-2">
+                  <i data-lucide="clock" class="w-5 h-5 text-[#A64B2A]"></i>
+                  <span>Open Daily 8 AM – 10:30 PM</span>
+                </div>
+              </div>
+
+              <!-- Action CTA Buttons -->
+              <div class="flex flex-wrap items-center justify-center lg:justify-start gap-4 pt-4">
+                <a href="#menu" class="px-7 py-4 rounded-full bg-[#5F6F52] hover:bg-[#4C5942] text-white font-bold text-xs uppercase tracking-widest shadow-lg transition-all flex items-center gap-2">
+                  <i data-lucide="utensils" class="w-5 h-5"></i>
+                  <span>Explore Menu</span>
+                </a>
+
+                <!-- WhatsApp Button (Hero) -->
+                <a href="https://wa.me/919886012345?text=Hello%20Neetu's%20Kitchen!%20I%20would%20like%20to%20order%20food." target="_blank" rel="noopener noreferrer" class="px-7 py-4 rounded-full bg-[#A64B2A] hover:bg-[#8D3D20] text-white font-bold text-xs uppercase tracking-widest shadow-lg transition-all flex items-center gap-2">
+                  <i data-lucide="message-circle" class="w-5 h-5"></i>
+                  <span>Order on WhatsApp</span>
+                </a>
+
+                <!-- Call Button (Hero) -->
+                <a href="tel:+919886012345" class="px-6 py-4 rounded-full border border-[#E6E0D4] hover:border-[#5F6F52] text-[#3E362E] font-bold text-xs uppercase tracking-widest transition-all flex items-center gap-2">
+                  <i data-lucide="phone" class="w-5 h-5 text-[#A64B2A]"></i>
+                  <span>Call Us</span>
+                </a>
+              </div>
+
+              <!-- Swiggy & Zomato Delivery Notice -->
+              <div class="pt-4 flex items-center justify-center lg:justify-start gap-3 text-xs sm:text-sm text-slate-500">
+                <span class="font-medium">Also delivering on:</span>
+                <span class="px-2.5 py-1 rounded bg-orange-100 text-orange-800 font-bold">Swiggy</span>
+                <span class="px-2.5 py-1 rounded bg-red-100 text-red-800 font-bold">Zomato</span>
+                <span class="px-2.5 py-1 rounded bg-amber-100 text-amber-800 font-bold">Direct Pickup</span>
+              </div>
+            </div>
+
+            <!-- Right Hero Visual Grid -->
+            <div class="lg:col-span-5 relative">
+              <div class="relative z-10 grid grid-cols-2 gap-4">
+                <!-- Card 1: Signature Dosa -->
+                <div class="bg-white p-3 rounded-2xl shadow-xl border border-slate-100 transform hover:-translate-y-1 transition-transform">
+                  <div class="relative h-44 rounded-xl overflow-hidden mb-3">
+                    <img src="https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=600&q=80" alt="Crispy Ghee Karam Dosa at Neetus Kitchen Nagawara" class="w-full h-full object-cover" />
+                    <span class="absolute top-2 right-2 px-2 py-1 rounded-md bg-red-600 text-white text-[10px] font-bold">BEST SELLER</span>
+                  </div>
+                  <h3 class="font-bold text-slate-800 text-sm">Ghee Karam Dosa</h3>
+                  <p class="text-xs text-slate-500">With red chutney & sambar</p>
+                  <div class="mt-2 flex items-center justify-between">
+                    <span class="text-red-600 font-extrabold text-sm">₹110</span>
+                    <span class="text-[11px] font-semibold px-2 py-0.5 rounded bg-emerald-100 text-emerald-800">Veg</span>
+                  </div>
+                </div>
+
+                <!-- Card 2: Chicken Roll -->
+                <div class="bg-white p-3 rounded-2xl shadow-xl border border-slate-100 transform translate-y-6 hover:translate-y-5 transition-transform">
+                  <div class="relative h-44 rounded-xl overflow-hidden mb-3">
+                    <img src="https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=600&q=80" alt="Signature Chicken Roll at Neetus Kitchen Nagawara" class="w-full h-full object-cover" />
+                    <span class="absolute top-2 right-2 px-2 py-1 rounded-md bg-amber-500 text-white text-[10px] font-bold">MUST TRY</span>
+                  </div>
+                  <h3 class="font-bold text-slate-800 text-sm">Spicy Chicken Roll</h3>
+                  <p class="text-xs text-slate-500">Loaded with juicy tikka</p>
+                  <div class="mt-2 flex items-center justify-between">
+                    <span class="text-red-600 font-extrabold text-sm">₹130</span>
+                    <span class="text-[11px] font-semibold px-2 py-0.5 rounded bg-rose-100 text-rose-800">Non-Veg</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Decorative Floating Review Badge -->
+              <div class="absolute -bottom-4 -left-4 sm:left-4 z-20 bg-white/95 backdrop-blur-md px-5 py-3 rounded-2xl shadow-2xl border border-amber-100 flex items-center gap-3">
+                <div class="w-10 h-10 rounded-full bg-amber-500 text-white font-bold flex items-center justify-center">4.8</div>
+                <div>
+                  <div class="flex text-amber-500 text-xs">★★★★★</div>
+                  <p class="text-xs font-bold text-slate-800">200+ Happy Neighbors</p>
+                  <p class="text-[10px] text-slate-500">In Nagawara & Hebbal</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 3. SECTION 2: ABOUT US -->
+      <section id="about" class="py-20 bg-white border-b border-slate-100 reveal">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+            <!-- Left About Photos -->
+            <div class="lg:col-span-6 grid grid-cols-2 gap-4">
+              <div class="space-y-4">
+                <div class="h-56 rounded-2xl overflow-hidden shadow-lg">
+                  <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=700&q=80" alt="Hygienic Home-Style Kitchen Preparation" class="w-full h-full object-cover" />
+                </div>
+                <div class="h-44 rounded-2xl overflow-hidden shadow-lg bg-amber-50 p-6 flex flex-col justify-center border border-amber-100">
+                  <span class="text-3xl sm:text-4xl font-extrabold text-red-600 font-display">100%</span>
+                  <p class="font-bold text-slate-800 mt-1">Homemade Quality</p>
+                  <p class="text-xs text-slate-600 mt-1">No additives, artificial colors, or preservatives used in any dish.</p>
+                </div>
+              </div>
+              <div class="space-y-4 pt-8">
+                <div class="h-44 rounded-2xl overflow-hidden shadow-lg bg-red-600 text-white p-6 flex flex-col justify-center">
+                  <i data-lucide="heart" class="w-8 h-8 text-amber-300 mb-2"></i>
+                  <p class="font-bold text-lg leading-tight">Loved in Nagawara</p>
+                  <p class="text-xs text-red-100 mt-1">Serving Hebbal, Vyalikaval HBCS & Manyata Tech Park families.</p>
+                </div>
+                <div class="h-56 rounded-2xl overflow-hidden shadow-lg">
+                  <img src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?auto=format&fit=crop&w=700&q=80" alt="Fresh authentic Indian thali meal at Neetus Kitchen" class="w-full h-full object-cover" />
+                </div>
+              </div>
+            </div>
+
+            <!-- Right About Text -->
+            <div class="lg:col-span-6 space-y-6">
+              <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-50 text-red-700 text-xs font-semibold uppercase tracking-wider">
+                <span>About Neetu's Kitchen</span>
+              </div>
+
+              <h2 class="font-display text-3xl sm:text-4xl font-bold text-slate-900 leading-tight">
+                Where Nagawara Meets Genuine <span class="text-red-600">Home-Cooked</span> Comfort
+              </h2>
+
+              <p class="text-slate-600 leading-relaxed">
+                Located in the heart of <strong class="text-slate-800">Vyalikaval HBCS Layout, Nagawara</strong>, 
+                <strong>Neetu's Kitchen</strong> was born from a simple promise: to serve food that tastes just like home. 
+                Whether you are a tech professional craving a wholesome lunch tiffin or a family looking for crisp dosas 
+                and spicy rolls after a long day, we prepare every order fresh to order.
+              </p>
+
+              <!-- Why Choose Us Grid -->
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-2">
+                <div class="flex items-start gap-3.5">
+                  <div class="w-10 h-10 rounded-xl bg-amber-100 text-amber-800 flex items-center justify-center shrink-0 font-bold">
+                    <i data-lucide="sparkles" class="w-5 h-5"></i>
+                  </div>
+                  <div>
+                    <h3 class="font-bold text-slate-800 text-base">Fresh Daily Masalas</h3>
+                    <p class="text-xs text-slate-600 mt-0.5">We grind our chutneys and spice blends fresh every morning.</p>
+                  </div>
+                </div>
+
+                <div class="flex items-start gap-3.5">
+                  <div class="w-10 h-10 rounded-xl bg-red-100 text-red-700 flex items-center justify-center shrink-0 font-bold">
+                    <i data-lucide="badge-check" class="w-5 h-5"></i>
+                  </div>
+                  <div>
+                    <h3 class="font-bold text-slate-800 text-base">Hygienic Preparation</h3>
+                    <p class="text-xs text-slate-600 mt-0.5">Strict kitchen cleanliness with pure RO water and branded oil.</p>
+                  </div>
+                </div>
+
+                <div class="flex items-start gap-3.5">
+                  <div class="w-10 h-10 rounded-xl bg-emerald-100 text-emerald-800 flex items-center justify-center shrink-0 font-bold">
+                    <i data-lucide="wallet" class="w-5 h-5"></i>
+                  </div>
+                  <div>
+                    <h3 class="font-bold text-slate-800 text-base">Pocket-Friendly Prices</h3>
+                    <p class="text-xs text-slate-600 mt-0.5">Generous portions priced for daily dining under ₹300.</p>
+                  </div>
+                </div>
+
+                <div class="flex items-start gap-3.5">
+                  <div class="w-10 h-10 rounded-xl bg-blue-100 text-blue-800 flex items-center justify-center shrink-0 font-bold">
+                    <i data-lucide="bike" class="w-5 h-5"></i>
+                  </div>
+                  <div>
+                    <h3 class="font-bold text-slate-800 text-base">Fast Nagawara Delivery</h3>
+                    <p class="text-xs text-slate-600 mt-0.5">Quick delivery to Hebbal, Nagawara & Manyata Tech Park.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="pt-4">
+                <a href="#menu" class="inline-flex items-center gap-2 font-bold text-red-600 hover:text-red-700 group">
+                  <span>Explore Our Full Menu & Services</span>
+                  <i data-lucide="arrow-right" class="w-4 h-4 transform group-hover:translate-x-1 transition-transform"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 4. SECTION 3: SERVICES & MENU -->
+      <section id="menu" class="py-20 bg-[#fffcf8] reveal">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <!-- Section Heading -->
+          <div class="text-center max-w-3xl mx-auto space-y-4 mb-12">
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-100 text-amber-800 text-xs font-semibold uppercase tracking-wider">
+              <span>What We Offer</span>
+            </div>
+            <h2 class="font-display text-3xl sm:text-4xl font-bold text-slate-900">
+              Our Services & <span class="text-red-600">Fresh Menu</span>
+            </h2>
+            <p class="text-slate-600 text-sm sm:text-base">
+              Choose from our freshly prepared North & South Indian specialties. Order instantly via WhatsApp for direct delivery or dine in!
+            </p>
+          </div>
+
+          <!-- Services Overview Grid -->
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
+            <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:border-red-200 transition-all">
+              <div class="w-12 h-12 rounded-xl bg-red-100 text-red-600 flex items-center justify-center mb-4">
+                <i data-lucide="utensils" class="w-6 h-6"></i>
+              </div>
+              <h3 class="font-bold text-slate-900 text-lg mb-1">Dine-In & Takeaway</h3>
+              <p class="text-xs text-slate-600">Enjoy hot dosas and rolls at our Nagawara kitchen or pick up fresh parcels.</p>
+            </div>
+
+            <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:border-emerald-200 transition-all">
+              <div class="w-12 h-12 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center mb-4">
+                <i data-lucide="message-circle" class="w-6 h-6"></i>
+              </div>
+              <h3 class="font-bold text-slate-900 text-lg mb-1">Direct WhatsApp Ordering</h3>
+              <p class="text-xs text-slate-600">Order directly on WhatsApp for personalized service and fast local delivery.</p>
+            </div>
+
+            <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:border-amber-200 transition-all">
+              <div class="w-12 h-12 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center mb-4">
+                <i data-lucide="calendar" class="w-6 h-6"></i>
+              </div>
+              <h3 class="font-bold text-slate-900 text-lg mb-1">Monthly Tiffin Subscription</h3>
+              <p class="text-xs text-slate-600">Homely lunch and dinner tiffin boxes delivered daily for bachelors and families.</p>
+            </div>
+
+            <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-100 hover:border-blue-200 transition-all">
+              <div class="w-12 h-12 rounded-xl bg-blue-100 text-blue-700 flex items-center justify-center mb-4">
+                <i data-lucide="users" class="w-6 h-6"></i>
+              </div>
+              <h3 class="font-bold text-slate-900 text-lg mb-1">Party & Office Catering</h3>
+              <p class="text-xs text-slate-600">Bulk catering for office lunches, birthday celebrations, and family gatherings.</p>
+            </div>
+          </div>
+
+          <!-- Menu Category Filter Tabs -->
+          <div class="flex flex-wrap justify-center items-center gap-2 sm:gap-3 mb-10">
+            <button type="button" data-category="all" class="menu-tab active px-5 py-2.5 rounded-full font-bold text-sm bg-red-600 text-white shadow-md">All Dishes</button>
+            <button type="button" data-category="rolls" class="menu-tab px-5 py-2.5 rounded-full font-bold text-sm bg-white text-slate-700 hover:bg-slate-50 border border-slate-200">Rolls & Wraps</button>
+            <button type="button" data-category="dosas" class="menu-tab px-5 py-2.5 rounded-full font-bold text-sm bg-white text-slate-700 hover:bg-slate-50 border border-slate-200">Dosas & South Indian</button>
+            <button type="button" data-category="biryani" class="menu-tab px-5 py-2.5 rounded-full font-bold text-sm bg-white text-slate-700 hover:bg-slate-50 border border-slate-200">Biryani & Rice</button>
+            <button type="button" data-category="sips" class="menu-tab px-5 py-2.5 rounded-full font-bold text-sm bg-white text-slate-700 hover:bg-slate-50 border border-slate-200">Sips & Beverages</button>
+            <button type="button" data-category="tiffin" class="menu-tab px-5 py-2.5 rounded-full font-bold text-sm bg-white text-slate-700 hover:bg-slate-50 border border-slate-200">Tiffin Meals</button>
+          </div>
+
+          <!-- Menu Items Grid -->
+          <div id="menu-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- 1. Ghee Karam Dosa -->
+            <div class="menu-item-card food-card bg-white rounded-2xl overflow-hidden border border-slate-100 flex flex-col justify-between" data-category="dosas">
+              <div>
+                <div class="relative h-48 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=700&q=80" alt="Ghee Karam Dosa" class="w-full h-full object-cover" />
+                  <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-emerald-600 text-white text-[11px] font-bold">VEG • POPULAR</span>
+                  <span class="absolute top-3 right-3 px-3 py-1 rounded-full bg-white/95 text-slate-900 font-extrabold text-sm shadow">₹110</span>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-slate-900 text-lg">Ghee Karam Dosa (2 pcs)</h3>
+                  <p class="text-xs text-slate-500 mt-1.5 leading-relaxed">
+                    Crispy golden dosas roasted in pure desi ghee, layered with spicy garlic karam chutney. Served with fresh coconut chutney and sambar.
+                  </p>
+                </div>
+              </div>
+              <div class="p-5 pt-0">
+                <button type="button" data-item="Ghee Karam Dosa (2 pcs)" data-price="₹110" class="order-wa-btn w-full py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-sm transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                  <span>Order on WhatsApp</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- 2. Signature Chicken Roll -->
+            <div class="menu-item-card food-card bg-white rounded-2xl overflow-hidden border border-slate-100 flex flex-col justify-between" data-category="rolls">
+              <div>
+                <div class="relative h-48 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=700&q=80" alt="Chicken Roll" class="w-full h-full object-cover" />
+                  <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-rose-600 text-white text-[11px] font-bold">NON-VEG • SPECIAL</span>
+                  <span class="absolute top-3 right-3 px-3 py-1 rounded-full bg-white/95 text-slate-900 font-extrabold text-sm shadow">₹130</span>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-slate-900 text-lg">Spicy Chicken Roll</h3>
+                  <p class="text-xs text-slate-500 mt-1.5 leading-relaxed">
+                    Juicy tandoori chicken tikka pieces wrapped in a flaky paratha with crunchy onions, lime juice, and our special green mint chutney.
+                  </p>
+                </div>
+              </div>
+              <div class="p-5 pt-0">
+                <button type="button" data-item="Spicy Chicken Roll" data-price="₹130" class="order-wa-btn w-full py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-sm transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                  <span>Order on WhatsApp</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- 3. Paneer Tikka Roll -->
+            <div class="menu-item-card food-card bg-white rounded-2xl overflow-hidden border border-slate-100 flex flex-col justify-between" data-category="rolls">
+              <div>
+                <div class="relative h-48 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=700&q=80" alt="Paneer Tikka Roll" class="w-full h-full object-cover" />
+                  <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-emerald-600 text-white text-[11px] font-bold">VEG</span>
+                  <span class="absolute top-3 right-3 px-3 py-1 rounded-full bg-white/95 text-slate-900 font-extrabold text-sm shadow">₹120</span>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-slate-900 text-lg">Paneer Tikka Roll</h3>
+                  <p class="text-xs text-slate-500 mt-1.5 leading-relaxed">
+                    Soft malai paneer cubes marinated in spices, roasted to perfection, and rolled with sliced peppers and tangy masala sauces.
+                  </p>
+                </div>
+              </div>
+              <div class="p-5 pt-0">
+                <button type="button" data-item="Paneer Tikka Roll" data-price="₹120" class="order-wa-btn w-full py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-sm transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                  <span>Order on WhatsApp</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- 4. Chicken 65 Biryani -->
+            <div class="menu-item-card food-card bg-white rounded-2xl overflow-hidden border border-slate-100 flex flex-col justify-between" data-category="biryani">
+              <div>
+                <div class="relative h-48 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=700&q=80" alt="Chicken 65 Biryani" class="w-full h-full object-cover" />
+                  <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-rose-600 text-white text-[11px] font-bold">NON-VEG • BEST SELLER</span>
+                  <span class="absolute top-3 right-3 px-3 py-1 rounded-full bg-white/95 text-slate-900 font-extrabold text-sm shadow">₹210</span>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-slate-900 text-lg">Chicken 65 Dum Biryani</h3>
+                  <p class="text-xs text-slate-500 mt-1.5 leading-relaxed">
+                    Aromatic long-grain basmati rice layered with crispy spiced Chicken 65 boneless chunks. Served with cooling raita and salan.
+                  </p>
+                </div>
+              </div>
+              <div class="p-5 pt-0">
+                <button type="button" data-item="Chicken 65 Dum Biryani" data-price="₹210" class="order-wa-btn w-full py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-sm transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                  <span>Order on WhatsApp</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- 5. Andhra Podi Dosa -->
+            <div class="menu-item-card food-card bg-white rounded-2xl overflow-hidden border border-slate-100 flex flex-col justify-between" data-category="dosas">
+              <div>
+                <div class="relative h-48 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?auto=format&fit=crop&w=700&q=80" alt="Andhra Podi Dosa" class="w-full h-full object-cover" />
+                  <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-emerald-600 text-white text-[11px] font-bold">VEG</span>
+                  <span class="absolute top-3 right-3 px-3 py-1 rounded-full bg-white/95 text-slate-900 font-extrabold text-sm shadow">₹95</span>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-slate-900 text-lg">Andhra Podi Dosa (2 pcs)</h3>
+                  <p class="text-xs text-slate-500 mt-1.5 leading-relaxed">
+                    Traditional Andhra-style dosa sprinkled generously with roasted spiced gunpowder podi and pure ghee. Crisp and flavorful.
+                  </p>
+                </div>
+              </div>
+              <div class="p-5 pt-0">
+                <button type="button" data-item="Andhra Podi Dosa (2 pcs)" data-price="₹95" class="order-wa-btn w-full py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-sm transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                  <span>Order on WhatsApp</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- 6. Veg Schezwan Fried Rice -->
+            <div class="menu-item-card food-card bg-white rounded-2xl overflow-hidden border border-slate-100 flex flex-col justify-between" data-category="biryani">
+              <div>
+                <div class="relative h-48 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=700&q=80" alt="Veg Schezwan Fried Rice" class="w-full h-full object-cover" />
+                  <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-emerald-600 text-white text-[11px] font-bold">VEG</span>
+                  <span class="absolute top-3 right-3 px-3 py-1 rounded-full bg-white/95 text-slate-900 font-extrabold text-sm shadow">₹140</span>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-slate-900 text-lg">Veg Schezwan Fried Rice</h3>
+                  <p class="text-xs text-slate-500 mt-1.5 leading-relaxed">
+                    Wok-tossed aromatic rice with fresh garden vegetables and homemade spicy Schezwan sauce. Perfectly balanced flavor.
+                  </p>
+                </div>
+              </div>
+              <div class="p-5 pt-0">
+                <button type="button" data-item="Veg Schezwan Fried Rice" data-price="₹140" class="order-wa-btn w-full py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-sm transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                  <span>Order on WhatsApp</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- 7. Egg Roll -->
+            <div class="menu-item-card food-card bg-white rounded-2xl overflow-hidden border border-slate-100 flex flex-col justify-between" data-category="rolls">
+              <div>
+                <div class="relative h-48 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=700&q=80" alt="Double Egg Roll" class="w-full h-full object-cover" />
+                  <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-amber-500 text-white text-[11px] font-bold">EGG</span>
+                  <span class="absolute top-3 right-3 px-3 py-1 rounded-full bg-white/95 text-slate-900 font-extrabold text-sm shadow">₹90</span>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-slate-900 text-lg">Double Egg Masala Roll</h3>
+                  <p class="text-xs text-slate-500 mt-1.5 leading-relaxed">
+                    Flaky paratha coated with two farm-fresh eggs, sautéed onions, green chillies, and tangy house sauces.
+                  </p>
+                </div>
+              </div>
+              <div class="p-5 pt-0">
+                <button type="button" data-item="Double Egg Masala Roll" data-price="₹90" class="order-wa-btn w-full py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-sm transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                  <span>Order on WhatsApp</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- 8. Filter Coffee & Masala Chai -->
+            <div class="menu-item-card food-card bg-white rounded-2xl overflow-hidden border border-slate-100 flex flex-col justify-between" data-category="sips">
+              <div>
+                <div class="relative h-48 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=700&q=80" alt="South Indian Filter Coffee" class="w-full h-full object-cover" />
+                  <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-amber-700 text-white text-[11px] font-bold">HOT BEVERAGE</span>
+                  <span class="absolute top-3 right-3 px-3 py-1 rounded-full bg-white/95 text-slate-900 font-extrabold text-sm shadow">₹35</span>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-slate-900 text-lg">South Indian Filter Coffee / Chai</h3>
+                  <p class="text-xs text-slate-500 mt-1.5 leading-relaxed">
+                    Authentic decoction filter coffee or spiced cardamom ginger chai served piping hot. The perfect companion for rolls and dosas.
+                  </p>
+                </div>
+              </div>
+              <div class="p-5 pt-0">
+                <button type="button" data-item="South Indian Filter Coffee / Chai" data-price="₹35" class="order-wa-btn w-full py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-sm transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                  <span>Order on WhatsApp</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- 9. Monthly Home Tiffin Combo -->
+            <div class="menu-item-card food-card bg-white rounded-2xl overflow-hidden border border-slate-100 flex flex-col justify-between" data-category="tiffin">
+              <div>
+                <div class="relative h-48 overflow-hidden">
+                  <img src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?auto=format&fit=crop&w=700&q=80" alt="Daily Home Tiffin Meal" class="w-full h-full object-cover" />
+                  <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-red-600 text-white text-[11px] font-bold">MONTHLY COMBO</span>
+                  <span class="absolute top-3 right-3 px-3 py-1 rounded-full bg-white/95 text-slate-900 font-extrabold text-sm shadow">₹140 / meal</span>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-slate-900 text-lg">Daily Home Tiffin Meal Box</h3>
+                  <p class="text-xs text-slate-500 mt-1.5 leading-relaxed">
+                    Includes 3 soft phulkas/chapati, dal tadka, fresh seasonal sabzi, rice, salad, and pickle. Hygienic daily subscription for Nagawara area.
+                  </p>
+                </div>
+              </div>
+              <div class="p-5 pt-0">
+                <button type="button" data-item="Daily Home Tiffin Meal Subscription" data-price="₹140/meal" class="order-wa-btn w-full py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-sm transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                  <span>Inquire Subscription</span>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Empty State when filtering matches nothing -->
+          <div id="menu-empty-state" class="hidden text-center py-12">
+            <p class="text-slate-500">No dishes found in this category.</p>
+          </div>
+
+          <!-- Custom Order Builder CTA Banner -->
+          <div class="mt-14 bg-gradient-to-r from-slate-900 to-slate-800 rounded-2xl p-8 text-white flex flex-col sm:flex-row items-center justify-between gap-6 shadow-xl">
+            <div class="space-y-2 text-center sm:text-left">
+              <span class="text-xs font-bold uppercase tracking-wider text-amber-400">Want Multiple Items?</span>
+              <h3 class="font-display text-2xl font-bold">Build Your Custom WhatsApp Order</h3>
+              <p class="text-sm text-slate-300">Select any mix of rolls, dosas, and biryanis and send your order directly to our kitchen.</p>
+            </div>
+            <button id="open-custom-order-btn" type="button" class="px-7 py-3.5 rounded-xl bg-red-600 hover:bg-red-700 text-white font-bold text-sm shadow-lg hover:shadow-red-600/30 transition-all shrink-0 flex items-center gap-2">
+              <i data-lucide="plus-circle" class="w-5 h-5"></i>
+              <span>Build Custom Order</span>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- 5. SECTION 4: PHOTO GALLERY (with interactive Lightbox) -->
+      <section id="gallery" class="py-20 bg-white border-b border-slate-100 reveal">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="text-center max-w-3xl mx-auto space-y-4 mb-12">
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-100 text-amber-800 text-xs font-semibold uppercase tracking-wider">
+              <span>Our Food & Kitchen</span>
+            </div>
+            <h2 class="font-display text-3xl sm:text-4xl font-bold text-slate-900">
+              A Glimpse into <span class="text-red-600">Neetu's Kitchen</span>
+            </h2>
+            <p class="text-slate-600 text-sm sm:text-base">
+              Click any photo to view full size. Prepared daily with fresh ingredients in Nagawara, Bangalore.
+            </p>
+          </div>
+
+          <!-- Gallery Grid -->
+          <div class="grid grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6">
+            <!-- Photo 1 -->
+            <div class="gallery-item cursor-pointer rounded-2xl shadow-sm h-60 sm:h-72" data-img="https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=1200&q=80" data-title="Crispy Ghee Karam Dosa" data-desc="Our signature dosa roasted with pure desi ghee and spicy garlic karam chutney.">
+              <img src="https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=600&q=80" alt="Crispy Ghee Karam Dosa" class="w-full h-full object-cover" />
+              <div class="overlay absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent flex flex-col justify-end p-5 text-white">
+                <span class="text-xs font-bold text-amber-300">SIGNATURE DOSA</span>
+                <p class="font-bold text-base">Crispy Ghee Karam Dosa</p>
+              </div>
+            </div>
+
+            <!-- Photo 2 -->
+            <div class="gallery-item cursor-pointer rounded-2xl shadow-sm h-60 sm:h-72" data-img="https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=1200&q=80" data-title="Spicy Chicken Roll" data-desc="Flaky paratha loaded with juicy tandoori chicken tikka and mint chutney.">
+              <img src="https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=600&q=80" alt="Spicy Chicken Roll" class="w-full h-full object-cover" />
+              <div class="overlay absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent flex flex-col justify-end p-5 text-white">
+                <span class="text-xs font-bold text-red-300">ROLLS & WRAPS</span>
+                <p class="font-bold text-base">Spicy Chicken Roll</p>
+              </div>
+            </div>
+
+            <!-- Photo 3 -->
+            <div class="gallery-item cursor-pointer rounded-2xl shadow-sm h-60 sm:h-72" data-img="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=1200&q=80" data-title="Aromatic Chicken 65 Biryani" data-desc="Long grain basmati rice with succulent Chicken 65 pieces and raita.">
+              <img src="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=80" alt="Aromatic Chicken 65 Biryani" class="w-full h-full object-cover" />
+              <div class="overlay absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent flex flex-col justify-end p-5 text-white">
+                <span class="text-xs font-bold text-amber-300">BIRYANI SPECIAL</span>
+                <p class="font-bold text-base">Chicken 65 Dum Biryani</p>
+              </div>
+            </div>
+
+            <!-- Photo 4 -->
+            <div class="gallery-item cursor-pointer rounded-2xl shadow-sm h-60 sm:h-72" data-img="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?auto=format&fit=crop&w=1200&q=80" data-title="Complete Home-Style Thali" data-desc="Wholesome tiffin meal with dal, fresh sabzi, chapati, and rice.">
+              <img src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?auto=format&fit=crop&w=600&q=80" alt="Home-Style Thali Meal" class="w-full h-full object-cover" />
+              <div class="overlay absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent flex flex-col justify-end p-5 text-white">
+                <span class="text-xs font-bold text-emerald-300">DAILY TIFFIN</span>
+                <p class="font-bold text-base">Wholesome Home-Style Meal</p>
+              </div>
+            </div>
+
+            <!-- Photo 5 -->
+            <div class="gallery-item cursor-pointer rounded-2xl shadow-sm h-60 sm:h-72" data-img="https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80" data-title="Traditional Filter Coffee" data-desc="Freshly brewed South Indian filter coffee in traditional brass davarah.">
+              <img src="https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=600&q=80" alt="South Indian Filter Coffee" class="w-full h-full object-cover" />
+              <div class="overlay absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent flex flex-col justify-end p-5 text-white">
+                <span class="text-xs font-bold text-amber-300">SIPS & BEVERAGES</span>
+                <p class="font-bold text-base">South Indian Filter Coffee</p>
+              </div>
+            </div>
+
+            <!-- Photo 6 -->
+            <div class="gallery-item cursor-pointer rounded-2xl shadow-sm h-60 sm:h-72" data-img="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80" data-title="Our Hygienic Kitchen in Nagawara" data-desc="Clean, hygienic, and modern food preparation every single day.">
+              <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80" alt="Hygienic Kitchen Setup" class="w-full h-full object-cover" />
+              <div class="overlay absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent flex flex-col justify-end p-5 text-white">
+                <span class="text-xs font-bold text-blue-300">OUR KITCHEN</span>
+                <p class="font-bold text-base">Hygienic Home Preparation</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 6. SECTION 5: BUSINESS HOURS (with Real-Time IST Open/Closed indicator) -->
+      <section id="hours" class="py-20 bg-[#fffcf8] reveal">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+            <!-- Left Timings Content -->
+            <div class="lg:col-span-6 space-y-6">
+              <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-100 text-red-700 text-xs font-semibold uppercase tracking-wider">
+                <span>Opening Schedule</span>
+              </div>
+
+              <h2 class="font-display text-3xl sm:text-4xl font-bold text-slate-900">
+                We Are Open <span class="text-red-600">All 7 Days</span> a Week
+              </h2>
+
+              <p class="text-slate-600 leading-relaxed">
+                Whether you need early morning breakfast, a hot lunch tiffin, evening chai and rolls, or a hearty dinner, 
+                Neetu's Kitchen in Nagawara is open daily to serve you fresh home-style food.
+              </p>
+
+              <!-- Live Status Pill -->
+              <div class="p-4 rounded-2xl bg-white border border-slate-200/80 shadow-sm flex items-center justify-between">
+                <div class="flex items-center gap-3">
+                  <div class="w-10 h-10 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center font-bold">
+                    <i data-lucide="clock" class="w-5 h-5"></i>
+                  </div>
+                  <div>
+                    <p class="text-xs font-semibold text-slate-500 uppercase">Current Status</p>
+                    <p class="text-sm font-bold text-slate-800">Standard Hours: 8:00 AM – 10:30 PM</p>
+                  </div>
+                </div>
+                <span id="hours-live-tag" class="px-3 py-1 rounded-full text-xs font-bold bg-emerald-100 text-emerald-800">
+                  OPEN NOW
+                </span>
+              </div>
+
+              <!-- Quick Info Cards -->
+              <div class="grid grid-cols-2 gap-4">
+                <div class="bg-white p-4 rounded-xl border border-slate-100 shadow-sm">
+                  <span class="text-xs font-semibold text-slate-400 uppercase">Breakfast & Tiffin</span>
+                  <p class="font-bold text-slate-800 text-sm mt-1">8:00 AM – 11:30 AM</p>
+                  <p class="text-xs text-slate-500 mt-0.5">Hot Dosas, Idli & Coffee</p>
+                </div>
+                <div class="bg-white p-4 rounded-xl border border-slate-100 shadow-sm">
+                  <span class="text-xs font-semibold text-slate-400 uppercase">Lunch & Dinner</span>
+                  <p class="font-bold text-slate-800 text-sm mt-1">12:00 PM – 10:30 PM</p>
+                  <p class="text-xs text-slate-500 mt-0.5">Rolls, Biryanis & Tiffin Meals</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Right Weekly Schedule Table -->
+            <div class="lg:col-span-6 bg-white rounded-3xl p-8 shadow-xl border border-[#E6E0D4]">
+              <h3 class="text-[#8B7E74] text-xs font-bold uppercase tracking-[0.2em] mb-6 flex items-center gap-2">
+                <i data-lucide="calendar-check" class="w-4 h-4 text-[#A64B2A]"></i>
+                <span>Weekly Business Hours</span>
+              </h3>
+
+              <div class="space-y-3.5 divide-y divide-[#E6E0D4] text-sm">
+                <div class="flex items-center justify-between pt-3 first:pt-0">
+                  <span class="font-bold text-[#3E362E]">Monday</span>
+                  <span class="font-medium text-[#8B7E74]">8:00 AM – 10:30 PM</span>
+                </div>
+                <div class="flex items-center justify-between pt-3">
+                  <span class="font-bold text-[#3E362E]">Tuesday</span>
+                  <span class="font-medium text-[#8B7E74]">8:00 AM – 10:30 PM</span>
+                </div>
+                <div class="flex items-center justify-between pt-3">
+                  <span class="font-bold text-[#3E362E]">Wednesday</span>
+                  <span class="font-medium text-[#8B7E74]">8:00 AM – 10:30 PM</span>
+                </div>
+                <div class="flex items-center justify-between pt-3">
+                  <span class="font-bold text-[#3E362E]">Thursday</span>
+                  <span class="font-medium text-[#8B7E74]">8:00 AM – 10:30 PM</span>
+                </div>
+                <div class="flex items-center justify-between pt-3">
+                  <span class="font-bold text-[#3E362E]">Friday</span>
+                  <span class="font-medium text-[#8B7E74]">8:00 AM – 10:30 PM</span>
+                </div>
+                <div class="flex items-center justify-between pt-3">
+                  <span class="font-bold text-[#3E362E]">Saturday</span>
+                  <span class="font-medium text-[#8B7E74]">8:00 AM – 10:30 PM</span>
+                </div>
+                <div class="flex items-center justify-between pt-3 text-[#A64B2A] font-bold">
+                  <span>Sunday (Special Menu)</span>
+                  <span>8:00 AM – 10:30 PM</span>
+                </div>
+              </div>
+
+              <div class="mt-8 pt-6 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500">
+                <span>* Holiday timings may vary slightly</span>
+                <a href="tel:+919886012345" class="text-red-600 font-bold hover:underline">Call to check →</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 7. SECTION 6: CUSTOMER REVIEWS -->
+      <section id="reviews" class="py-20 bg-white border-b border-slate-100 reveal">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <!-- Heading -->
+          <div class="text-center max-w-3xl mx-auto space-y-4 mb-12">
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-100 text-amber-800 text-xs font-semibold uppercase tracking-wider">
+              <span>Verified Testimonials</span>
+            </div>
+            <h2 class="font-display text-3xl sm:text-4xl font-bold text-slate-900">
+              What Our <span class="text-red-600">Nagawara Customers</span> Say
+            </h2>
+            <p class="text-slate-600 text-sm sm:text-base">
+              Rated <strong>4.8 out of 5</strong> on Google & Swiggy by over 200+ food lovers in Nagawara, Hebbal & Manyata Tech Park.
+            </p>
+
+            <!-- Filter Buttons -->
+            <div class="flex flex-wrap justify-center gap-2 pt-4">
+              <button type="button" data-filter="all" class="review-filter-btn px-4 py-2 rounded-full font-bold text-xs bg-red-600 text-white shadow-md">All Reviews</button>
+              <button type="button" data-filter="google" class="review-filter-btn px-4 py-2 rounded-full font-bold text-xs bg-white text-slate-700 hover:bg-slate-100 border border-slate-200">Google Verified</button>
+              <button type="button" data-filter="swiggy" class="review-filter-btn px-4 py-2 rounded-full font-bold text-xs bg-white text-slate-700 hover:bg-slate-100 border border-slate-200">Swiggy Verified</button>
+            </div>
+          </div>
+
+          <!-- Reviews Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Review 1 -->
+            <div class="review-card bg-[#fffcf8] p-6 rounded-2xl border border-amber-100 shadow-sm flex flex-col justify-between" data-source="google">
+              <div>
+                <div class="flex items-center justify-between mb-3">
+                  <div class="flex text-amber-500 text-sm">★★★★★</div>
+                  <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-blue-100 text-blue-800">Google Profile</span>
+                </div>
+                <p class="text-slate-700 text-sm leading-relaxed italic">
+                  "One of the best home-style kitchens in the Nagawara and Vyalikaval HBCS Layout area! Their Ghee Karam Dosa and Chicken Roll are absolutely delicious and fresh. Highly recommended for daily dining."
+                </p>
+              </div>
+              <div class="mt-6 pt-4 border-t border-amber-100/80 flex items-center gap-3">
+                <div class="w-9 h-9 rounded-full bg-red-100 text-red-700 font-bold flex items-center justify-center text-sm">A</div>
+                <div>
+                  <h4 class="font-bold text-slate-900 text-sm">Aditya Rao</h4>
+                  <p class="text-xs text-slate-500">Local Guide • Nagawara</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Review 2 -->
+            <div class="review-card bg-[#fffcf8] p-6 rounded-2xl border border-amber-100 shadow-sm flex flex-col justify-between" data-source="swiggy">
+              <div>
+                <div class="flex items-center justify-between mb-3">
+                  <div class="flex text-amber-500 text-sm">★★★★★</div>
+                  <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-orange-100 text-orange-800">Swiggy Customer</span>
+                </div>
+                <p class="text-slate-700 text-sm leading-relaxed italic">
+                  "Ordered Chicken 65 Dum Biryani and Egg Roll via Swiggy. Packaging was super hygienic, food was piping hot, and tasted authentic like homemade food without heavy grease. Will order again!"
+                </p>
+              </div>
+              <div class="mt-6 pt-4 border-t border-amber-100/80 flex items-center gap-3">
+                <div class="w-9 h-9 rounded-full bg-amber-100 text-amber-800 font-bold flex items-center justify-center text-sm">S</div>
+                <div>
+                  <h4 class="font-bold text-slate-900 text-sm">Sneha Kulkarni</h4>
+                  <p class="text-xs text-slate-500">Manyata Tech Park Resident</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Review 3 -->
+            <div class="review-card bg-[#fffcf8] p-6 rounded-2xl border border-amber-100 shadow-sm flex flex-col justify-between" data-source="google">
+              <div>
+                <div class="flex items-center justify-between mb-3">
+                  <div class="flex text-amber-500 text-sm">★★★★★</div>
+                  <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-blue-100 text-blue-800">Google Profile</span>
+                </div>
+                <p class="text-slate-700 text-sm leading-relaxed italic">
+                  "Very pocket friendly and hygienic! Finding clean home-style North and South Indian food near Hebbal & Nagawara can be hard, but Neetu's Kitchen has been my daily go-to for lunch tiffin."
+                </p>
+              </div>
+              <div class="mt-6 pt-4 border-t border-amber-100/80 flex items-center gap-3">
+                <div class="w-9 h-9 rounded-full bg-emerald-100 text-emerald-800 font-bold flex items-center justify-center text-sm">V</div>
+                <div>
+                  <h4 class="font-bold text-slate-900 text-sm">Vikram Nair</h4>
+                  <p class="text-xs text-slate-500">Hebbal, Bangalore</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Review 4 -->
+            <div class="review-card bg-[#fffcf8] p-6 rounded-2xl border border-amber-100 shadow-sm flex flex-col justify-between" data-source="swiggy">
+              <div>
+                <div class="flex items-center justify-between mb-3">
+                  <div class="flex text-amber-500 text-sm">★★★★★</div>
+                  <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-orange-100 text-orange-800">Swiggy Customer</span>
+                </div>
+                <p class="text-slate-700 text-sm leading-relaxed italic">
+                  "The Paneer Tikka Roll and Filter Coffee are a match made in heaven. Very generous stuffing and quick delivery."
+                </p>
+              </div>
+              <div class="mt-6 pt-4 border-t border-amber-100/80 flex items-center gap-3">
+                <div class="w-9 h-9 rounded-full bg-purple-100 text-purple-800 font-bold flex items-center justify-center text-sm">P</div>
+                <div>
+                  <h4 class="font-bold text-slate-900 text-sm">Pooja Sharma</h4>
+                  <p class="text-xs text-slate-500">Nagawara Main Road</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Review 5 -->
+            <div class="review-card bg-[#fffcf8] p-6 rounded-2xl border border-amber-100 shadow-sm flex flex-col justify-between" data-source="google">
+              <div>
+                <div class="flex items-center justify-between mb-3">
+                  <div class="flex text-amber-500 text-sm">★★★★★</div>
+                  <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-blue-100 text-blue-800">Google Profile</span>
+                </div>
+                <p class="text-slate-700 text-sm leading-relaxed italic">
+                  "Ordered bulk dinner boxes for our team get-together. Every dish was tasty, well packed, and arrived right on time. Special thanks to Neetu and team!"
+                </p>
+              </div>
+              <div class="mt-6 pt-4 border-t border-amber-100/80 flex items-center gap-3">
+                <div class="w-9 h-9 rounded-full bg-blue-100 text-blue-800 font-bold flex items-center justify-center text-sm">M</div>
+                <div>
+                  <h4 class="font-bold text-slate-900 text-sm">Mohan Kumar</h4>
+                  <p class="text-xs text-slate-500">Tech Lead, Manyata</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Review 6 -->
+            <div class="review-card bg-[#fffcf8] p-6 rounded-2xl border border-amber-100 shadow-sm flex flex-col justify-between" data-source="google">
+              <div>
+                <div class="flex items-center justify-between mb-3">
+                  <div class="flex text-amber-500 text-sm">★★★★★</div>
+                  <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-blue-100 text-blue-800">Google Profile</span>
+                </div>
+                <p class="text-slate-700 text-sm leading-relaxed italic">
+                  "The Andhra Podi Dosa with chutney is a must-try. You can taste the freshness in the coconut chutney every morning."
+                </p>
+              </div>
+              <div class="mt-6 pt-4 border-t border-amber-100/80 flex items-center gap-3">
+                <div class="w-9 h-9 rounded-full bg-rose-100 text-rose-800 font-bold flex items-center justify-center text-sm">R</div>
+                <div>
+                  <h4 class="font-bold text-slate-900 text-sm">Ramya S.</h4>
+                  <p class="text-xs text-slate-500">Vyalikaval HBCS Layout</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Google Review Prompt -->
+          <div class="mt-12 text-center">
+            <a href="https://www.google.com/search?q=neetus+kitchen+nagwar" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-slate-300 hover:border-red-600 text-slate-700 hover:text-red-600 font-bold text-sm transition-colors">
+              <i data-lucide="star" class="w-4 h-4 text-amber-500"></i>
+              <span>View All 200+ Reviews on Google Business Profile</span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- 8. SECTION 7: FREQUENTLY ASKED QUESTIONS (FAQ) -->
+      <section id="faq" class="py-20 bg-[#fffcf8] border-b border-slate-100 reveal">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="text-center space-y-4 mb-12">
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-100 text-amber-800 text-xs font-semibold uppercase tracking-wider">
+              <span>Got Questions?</span>
+            </div>
+            <h2 class="font-display text-3xl sm:text-4xl font-bold text-slate-900">
+              Frequently Asked <span class="text-red-600">Questions</span>
+            </h2>
+            <p class="text-slate-600 text-sm sm:text-base">
+              Everything you need to know about ordering, delivery areas, tiffin subscription, and kitchen hygiene.
+            </p>
+          </div>
+
+          <!-- FAQ Accordion List -->
+          <div class="space-y-4">
+            <!-- Q1 -->
+            <div class="faq-item bg-white rounded-2xl border border-slate-200/80 shadow-sm overflow-hidden transition-colors">
+              <button type="button" class="faq-button w-full px-6 py-5 text-left flex items-center justify-between gap-4 font-bold text-slate-800 hover:text-red-600">
+                <span>Where is Neetu's Kitchen located in Nagawara, Bangalore?</span>
+                <i data-lucide="chevron-down" class="faq-icon w-5 h-5 text-slate-400 shrink-0 transition-transform duration-300"></i>
+              </button>
+              <div class="faq-answer px-6 text-slate-600 text-sm leading-relaxed">
+                We are conveniently located at <strong>3rd Cross Road, Munivenkatappa Layout, Vyalikaval HBCS Layout, Nagawara, Hebbal, Bengaluru, Karnataka - 560045</strong>. We are close to Manyata Tech Park and Hebbal main road.
+              </div>
+            </div>
+
+            <!-- Q2 -->
+            <div class="faq-item bg-white rounded-2xl border border-slate-200/80 shadow-sm overflow-hidden transition-colors">
+              <button type="button" class="faq-button w-full px-6 py-5 text-left flex items-center justify-between gap-4 font-bold text-slate-800 hover:text-red-600">
+                <span>How can I order online for home delivery?</span>
+                <i data-lucide="chevron-down" class="faq-icon w-5 h-5 text-slate-400 shrink-0 transition-transform duration-300"></i>
+              </button>
+              <div class="faq-answer px-6 text-slate-600 text-sm leading-relaxed">
+                You can order instantly in 3 ways: <br />
+                1. <strong>Direct WhatsApp Ordering:</strong> Click our "Order on WhatsApp" buttons to send your order directly for quick delivery. <br />
+                2. <strong>Swiggy / Zomato:</strong> Search for "Neethu's Kitchen & Sips" or "Neetu's Kitchen Nagawara" on your delivery apps. <br />
+                3. <strong>Phone Order:</strong> Call us at <strong>+91 98860 12345</strong> for direct takeaway or delivery.
+              </div>
+            </div>
+
+            <!-- Q3 -->
+            <div class="faq-item bg-white rounded-2xl border border-slate-200/80 shadow-sm overflow-hidden transition-colors">
+              <button type="button" class="faq-button w-full px-6 py-5 text-left flex items-center justify-between gap-4 font-bold text-slate-800 hover:text-red-600">
+                <span>Do you offer Monthly Tiffin Subscription for tech professionals & families?</span>
+                <i data-lucide="chevron-down" class="faq-icon w-5 h-5 text-slate-400 shrink-0 transition-transform duration-300"></i>
+              </button>
+              <div class="faq-answer px-6 text-slate-600 text-sm leading-relaxed">
+                Yes! We offer healthy, home-cooked daily lunch and dinner tiffin boxes around Nagawara, Hebbal, and Manyata Tech Park. You can choose weekly or monthly plans. Contact us via WhatsApp or phone to customize your meal plan.
+              </div>
+            </div>
+
+            <!-- Q4 -->
+            <div class="faq-item bg-white rounded-2xl border border-slate-200/80 shadow-sm overflow-hidden transition-colors">
+              <button type="button" class="faq-button w-full px-6 py-5 text-left flex items-center justify-between gap-4 font-bold text-slate-800 hover:text-red-600">
+                <span>Are vegetarian and non-vegetarian dishes prepared cleanly?</span>
+                <i data-lucide="chevron-down" class="faq-icon w-5 h-5 text-slate-400 shrink-0 transition-transform duration-300"></i>
+              </button>
+              <div class="faq-answer px-6 text-slate-600 text-sm leading-relaxed">
+                Absolutely. We maintain strict hygiene standards with separate utensils and prep areas for vegetarian and non-vegetarian dishes. We use only fresh ingredients, pure desi ghee, and zero artificial colors or MSG.
+              </div>
+            </div>
+
+            <!-- Q5 -->
+            <div class="faq-item bg-white rounded-2xl border border-slate-200/80 shadow-sm overflow-hidden transition-colors">
+              <button type="button" class="faq-button w-full px-6 py-5 text-left flex items-center justify-between gap-4 font-bold text-slate-800 hover:text-red-600">
+                <span>Do you accept bulk party catering orders?</span>
+                <i data-lucide="chevron-down" class="faq-icon w-5 h-5 text-slate-400 shrink-0 transition-transform duration-300"></i>
+              </button>
+              <div class="faq-answer px-6 text-slate-600 text-sm leading-relaxed">
+                Yes! We undertake bulk orders for office lunches, birthday celebrations, and small gatherings (from 15 to 150 people). Please give us at least 24 hours advance notice so we can prepare everything fresh for your event.
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 9. SECTION 8: CONTACT US & GOOGLE MAP EMBED -->
+      <section id="contact" class="py-20 bg-white reveal">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="text-center max-w-3xl mx-auto space-y-4 mb-14">
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-100 text-amber-800 text-xs font-semibold uppercase tracking-wider">
+              <span>Visit Us or Inquire</span>
+            </div>
+            <h2 class="font-display text-3xl sm:text-4xl font-bold text-slate-900">
+              Contact Us & <span class="text-red-600">Find Our Kitchen</span>
+            </h2>
+            <p class="text-slate-600 text-sm sm:text-base">
+              Have a question about our menu, tiffin subscriptions, or catering? Drop a message or visit us in Nagawara.
+            </p>
+          </div>
+
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+            <!-- Left Contact Details & Interactive Form -->
+            <div class="lg:col-span-6 space-y-8">
+              <!-- Address & Phone Cards -->
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <!-- Address Card -->
+                <div class="bg-[#fffcf8] p-5 rounded-2xl border border-slate-200/80 shadow-sm">
+                  <div class="w-10 h-10 rounded-xl bg-red-100 text-red-600 flex items-center justify-center font-bold mb-3">
+                    <i data-lucide="map-pin" class="w-5 h-5"></i>
+                  </div>
+                  <h3 class="font-bold text-slate-900 text-sm">Kitchen Location</h3>
+                  <p class="text-xs text-slate-600 mt-1 leading-relaxed">
+                    3rd Cross Rd, Munivenkatappa Layout, Vyalikaval HBCS Layout, Nagawara, Hebbal, Bengaluru - 560045
+                  </p>
+                </div>
+
+                <!-- Call & WhatsApp Card -->
+                <div class="bg-[#fffcf8] p-5 rounded-2xl border border-slate-200/80 shadow-sm">
+                  <div class="w-10 h-10 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center font-bold mb-3">
+                    <i data-lucide="phone" class="w-5 h-5"></i>
+                  </div>
+                  <h3 class="font-bold text-slate-900 text-sm">Call & WhatsApp</h3>
+                  <p class="text-xs text-slate-600 mt-1 leading-relaxed">
+                    <strong>+91 98860 12345</strong><br />
+                    Open Daily: 8:00 AM – 10:30 PM
+                  </p>
+                  <div class="mt-2 flex gap-2">
+                    <a href="tel:+919886012345" class="text-xs font-bold text-red-600 hover:underline">Call Now →</a>
+                    <a href="https://wa.me/919886012345" target="_blank" rel="noopener noreferrer" class="text-xs font-bold text-emerald-700 hover:underline">WhatsApp →</a>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Interactive Contact Form -->
+              <div class="bg-[#fffcf8] p-7 rounded-3xl border border-slate-200/80 shadow-md">
+                <h3 class="font-display text-xl font-bold text-slate-900 mb-2">Send an Inquiry</h3>
+                <p class="text-xs text-slate-500 mb-6">Fill this out and we will respond via WhatsApp or phone within 15 minutes.</p>
+
+                <form id="contact-form" class="space-y-4">
+                  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    <div>
+                      <label for="contact-name" class="block text-xs font-bold text-slate-700 uppercase mb-1">Your Name *</label>
+                      <input type="text" id="contact-name" required placeholder="e.g. Rahul Sharma" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 focus:outline-none focus:border-red-600 text-sm bg-white" />
+                    </div>
+                    <div>
+                      <label for="contact-phone" class="block text-xs font-bold text-slate-700 uppercase mb-1">Phone / WhatsApp *</label>
+                      <input type="tel" id="contact-phone" required placeholder="+91 98XXX XXXXX" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 focus:outline-none focus:border-red-600 text-sm bg-white" />
+                    </div>
+                  </div>
+
+                  <div>
+                    <label for="contact-service" class="block text-xs font-bold text-slate-700 uppercase mb-1">Inquiry Type</label>
+                    <select id="contact-service" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 focus:outline-none focus:border-red-600 text-sm bg-white">
+                      <option value="Home Delivery Order">Food Order / Takeaway</option>
+                      <option value="Monthly Tiffin Subscription">Monthly Tiffin Subscription</option>
+                      <option value="Party & Office Catering">Party / Office Catering Inquiry</option>
+                      <option value="General Feedback">General Question / Feedback</option>
+                    </select>
+                  </div>
+
+                  <div>
+                    <label for="contact-message" class="block text-xs font-bold text-slate-700 uppercase mb-1">Message / Dishes Required</label>
+                    <textarea id="contact-message" rows="3" placeholder="Tell us which dishes you like or any special instructions..." class="w-full px-4 py-2.5 rounded-xl border border-slate-300 focus:outline-none focus:border-red-600 text-sm bg-white"></textarea>
+                  </div>
+
+                  <button type="submit" class="w-full py-3.5 px-6 rounded-xl bg-red-600 hover:bg-red-700 text-white font-bold text-sm shadow-md transition-all flex items-center justify-center gap-2">
+                    <i data-lucide="send" class="w-4 h-4"></i>
+                    <span>Send Message to Kitchen</span>
+                  </button>
+                </form>
+              </div>
+            </div>
+
+            <!-- Right: GOOGLE MAP EMBED -->
+            <div id="map" class="lg:col-span-6 flex flex-col justify-between bg-[#fffcf8] p-4 sm:p-6 rounded-3xl border border-slate-200/80 shadow-md">
+              <div>
+                <div class="flex items-center justify-between mb-4">
+                  <div>
+                    <span class="text-xs font-bold uppercase tracking-wider text-red-600">Interactive Location</span>
+                    <h3 class="font-display text-xl font-bold text-slate-900">Google Map Embed</h3>
+                  </div>
+                  <a href="https://www.google.com/maps?q=13.0416,77.6167+(Neetus+Kitchen+Nagawara+Bangalore)" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1 text-xs font-bold text-red-600 hover:underline">
+                    <span>Open in Google Maps</span>
+                    <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+                  </a>
+                </div>
+
+                <!-- Google Map Embed Iframe (Centered on Nagawara / Vyalikaval HBCS Layout 560045) -->
+                <div class="w-full h-80 sm:h-96 rounded-2xl overflow-hidden shadow-inner border border-slate-200 relative">
+                  <iframe 
+                    title="Neetu's Kitchen Nagawara Google Map"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15548.887858607424!2d77.6080!3d13.0416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1765c378e6f1%3A0xc3b8a3b003a2b0!2sNagavara%2C%20Bengaluru%2C%20Karnataka%20560045!5e0!3m2!1sen!2sin!4v1714000000000!5m2!1sen!2sin" 
+                    width="100%" 
+                    height="100%" 
+                    style="border:0;" 
+                    allowfullscreen="" 
+                    loading="lazy" 
+                    referrerpolicy="no-referrer-when-downgrade">
+                  </iframe>
+                </div>
+              </div>
+
+              <div class="mt-4 pt-4 border-t border-slate-200/80 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
+                <div class="flex items-center gap-2">
+                  <span class="w-2.5 h-2.5 rounded-full bg-red-600"></span>
+                  <span><strong>Landmark:</strong> Near 3rd Cross Rd, Vyalikaval HBCS Layout, Nagawara</span>
+                </div>
+                <a href="https://www.google.com/search?q=neetus+kitchen+nagwar" target="_blank" rel="noopener noreferrer" class="font-bold text-red-600 hover:underline">
+                  View Google Business Profile →
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 10. SECTION 9: FOOTER -->
+      <footer id="footer" class="bg-white text-[#3E362E] pt-16 pb-12 border-t border-[#E6E0D4]">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 pb-12 border-b border-[#E6E0D4]">
+            <!-- Col 1: Brand Info -->
+            <div class="space-y-4">
+              <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-full bg-[#5F6F52] flex items-center justify-center text-white font-serif italic text-xl">
+                  N
+                </div>
+                <span class="font-display text-xl font-bold text-[#3E362E]">Neetu's <span class="text-[#5F6F52] font-serif italic">Kitchen</span></span>
+              </div>
+              <p class="text-xs text-[#8B7E74] leading-relaxed">
+                Authentic, home-style North & South Indian meals, crispy dosas, signature rolls, and daily tiffin services in Nagawara, Hebbal & Bangalore.
+              </p>
+              <div class="flex items-center gap-3 pt-1">
+                <a href="https://wa.me/919886012345" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" class="w-9 h-9 rounded-full bg-[#F9F7F2] border border-[#E6E0D4] hover:bg-[#5F6F52] hover:text-white text-[#8B7E74] flex items-center justify-center transition-colors">
+                  <i data-lucide="message-circle" class="w-4 h-4"></i>
+                </a>
+                <a href="tel:+919886012345" aria-label="Call" class="w-9 h-9 rounded-full bg-[#F9F7F2] border border-[#E6E0D4] hover:bg-[#A64B2A] hover:text-white text-[#8B7E74] flex items-center justify-center transition-colors">
+                  <i data-lucide="phone" class="w-4 h-4"></i>
+                </a>
+                <a href="https://www.google.com/search?q=neetus+kitchen+nagwar" target="_blank" rel="noopener noreferrer" aria-label="Google Profile" class="w-9 h-9 rounded-full bg-[#F9F7F2] border border-[#E6E0D4] hover:bg-[#5F6F52] hover:text-white text-[#8B7E74] flex items-center justify-center transition-colors">
+                  <i data-lucide="star" class="w-4 h-4"></i>
+                </a>
+              </div>
+            </div>
+
+            <!-- Col 2: Quick Links -->
+            <div>
+              <h3 class="text-[#8B7E74] text-xs font-bold uppercase tracking-[0.2em] mb-4">Quick Navigation</h3>
+              <ul class="space-y-2.5 text-xs text-[#8B7E74]">
+                <li><a href="#home" class="hover:text-[#5F6F52] transition-colors">Home & Special Offers</a></li>
+                <li><a href="#about" class="hover:text-[#5F6F52] transition-colors">About Our Kitchen</a></li>
+                <li><a href="#menu" class="hover:text-[#5F6F52] transition-colors">Full Menu & Services</a></li>
+                <li><a href="#gallery" class="hover:text-[#5F6F52] transition-colors">Food Photo Gallery</a></li>
+                <li><a href="#hours" class="hover:text-[#5F6F52] transition-colors">Weekly Business Hours</a></li>
+                <li><a href="#reviews" class="hover:text-[#5F6F52] transition-colors">Customer Testimonials</a></li>
+                <li><a href="#faq" class="hover:text-[#5F6F52] transition-colors">Frequently Asked Questions</a></li>
+                <li><a href="#contact" class="hover:text-[#5F6F52] transition-colors">Contact & Google Map</a></li>
+              </ul>
+            </div>
+
+            <!-- Col 3: Popular Specialties -->
+            <div>
+              <h3 class="text-[#8B7E74] text-xs font-bold uppercase tracking-[0.2em] mb-4">Must-Try Specialties</h3>
+              <ul class="space-y-2.5 text-xs text-[#8B7E74]">
+                <li><span class="text-[#3E362E] font-semibold">Ghee Karam Dosa</span> — ₹110</li>
+                <li><span class="text-[#3E362E] font-semibold">Spicy Chicken Roll</span> — ₹130</li>
+                <li><span class="text-[#3E362E] font-semibold">Andhra Podi Dosa</span> — ₹95</li>
+                <li><span class="text-[#3E362E] font-semibold">Chicken 65 Dum Biryani</span> — ₹210</li>
+                <li><span class="text-[#3E362E] font-semibold">South Indian Filter Coffee</span> — ₹35</li>
+                <li><span class="text-[#3E362E] font-semibold">Monthly Home Tiffin Box</span> — ₹140/meal</li>
+              </ul>
+            </div>
+
+            <!-- Col 4: Contact & Order -->
+            <div>
+              <h3 class="text-[#8B7E74] text-xs font-bold uppercase tracking-[0.2em] mb-4">Order / Delivery</h3>
+              <div class="space-y-3 text-xs text-[#8B7E74]">
+                <p><strong>Address:</strong> 3rd Cross Rd, Munivenkatappa Layout, Vyalikaval HBCS Layout, Nagawara, Bengaluru - 560045</p>
+                <p><strong>Phone / WhatsApp:</strong> <a href="tel:+919886012345" class="text-[#3E362E] font-bold hover:underline">+91 98860 12345</a></p>
+                <p><strong>Timing:</strong> Open Daily 8:00 AM – 10:30 PM</p>
+                <div class="pt-2">
+                  <a href="https://wa.me/919886012345?text=Hello%20Neetu's%20Kitchen!" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-[#5F6F52] hover:bg-[#4C5942] text-white font-bold text-xs uppercase tracking-widest shadow-md transition-all">
+                    <i data-lucide="message-circle" class="w-4 h-4"></i>
+                    <span>Order on WhatsApp Now</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Copyright & Disclaimer -->
+          <div class="pt-8 flex flex-col sm:flex-row items-center justify-between text-[11px] text-[#8B7E74] font-medium uppercase tracking-wider gap-4">
+            <p>© 2026 Neetu's Kitchen Nagawara • All rights reserved.</p>
+            <div class="flex gap-6">
+              <a href="#home" class="hover:text-[#5F6F52] font-bold">Back to top ↑</a>
+              <a href="https://www.google.com/search?q=neetus+kitchen+nagwar" target="_blank" rel="noopener noreferrer" class="hover:text-[#A64B2A] font-bold">Google Profile</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </main>
+
+    <!-- 11. FLOATING WHATSAPP BUTTON (Bottom Right) -->
+    <a 
+      href="https://wa.me/919886012345?text=Hello%20Neetu's%20Kitchen!%20I%20would%20like%20to%20order%20food." 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      aria-label="Chat and Order on WhatsApp"
+      class="whatsapp-pulse fixed bottom-20 sm:bottom-8 right-5 z-50 w-14 h-14 rounded-full bg-[#25D366] hover:bg-[#1EBE5D] text-white flex items-center justify-center shadow-2xl transition-all transform hover:scale-110 group">
+      <i data-lucide="message-circle" class="w-7 h-7"></i>
+      <span class="absolute right-16 px-3 py-1.5 rounded-lg bg-[#3E362E] text-white text-xs font-bold whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity shadow-lg pointer-events-none">
+        Order on WhatsApp 💬
+      </span>
+    </a>
+
+    <!-- 12. FLOATING CALL BUTTON (Bottom Right - stacked slightly above or mobile bottom action bar) -->
+    <a 
+      href="tel:+919886012345" 
+      aria-label="Call Neetu's Kitchen"
+      class="fixed bottom-36 sm:bottom-24 right-5 z-50 w-14 h-14 rounded-full bg-[#5F6F52] hover:bg-[#4C5942] text-white flex items-center justify-center shadow-xl transition-all transform hover:scale-110 group">
+      <i data-lucide="phone-call" class="w-6 h-6"></i>
+      <span class="absolute right-16 px-3 py-1.5 rounded-lg bg-[#3E362E] text-white text-xs font-bold whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity shadow-lg pointer-events-none">
+        Call +91 98860 12345 📞
+      </span>
+    </a>
+
+    <!-- Mobile Sticky Action Bar (Bottom of screen on mobile devices) -->
+    <div class="sm:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md border-t border-[#E6E0D4] px-4 py-2.5 flex items-center justify-around shadow-lg">
+      <a href="#menu" class="flex flex-col items-center gap-0.5 text-[11px] font-bold text-[#8B7E74] hover:text-[#5F6F52]">
+        <i data-lucide="utensils" class="w-5 h-5 text-[#A64B2A]"></i>
+        <span>Menu</span>
+      </a>
+      <a href="tel:+919886012345" class="flex flex-col items-center gap-0.5 text-[11px] font-bold text-[#8B7E74] hover:text-[#5F6F52]">
+        <i data-lucide="phone" class="w-5 h-5 text-[#A64B2A]"></i>
+        <span>Call</span>
+      </a>
+      <a href="https://wa.me/919886012345?text=Hello%20Neetu's%20Kitchen!%20I%20would%20like%20to%20order%20food." target="_blank" rel="noopener noreferrer" class="flex items-center gap-1.5 px-4 py-2 rounded-full bg-[#5F6F52] text-white text-xs font-bold uppercase tracking-widest shadow">
+        <i data-lucide="message-circle" class="w-4 h-4"></i>
+        <span>WhatsApp</span>
+      </a>
+      <a href="#contact" class="flex flex-col items-center gap-0.5 text-[11px] font-bold text-[#8B7E74] hover:text-[#5F6F52]">
+        <i data-lucide="map-pin" class="w-5 h-5 text-[#A64B2A]"></i>
+        <span>Map</span>
+      </a>
+    </div>
+
+    <!-- LIGHTBOX MODAL for Photo Gallery -->
+    <div id="lightbox-modal" class="fixed inset-0 z-50 hidden flex items-center justify-center p-4">
+      <div id="lightbox-backdrop" class="absolute inset-0 bg-slate-950/80 backdrop-blur-sm"></div>
+      <div class="relative z-10 max-w-3xl w-full bg-white rounded-3xl overflow-hidden shadow-2xl border border-slate-100">
+        <button id="lightbox-close" type="button" aria-label="Close photo" class="absolute top-4 right-4 z-20 w-10 h-10 rounded-full bg-slate-900/70 text-white hover:bg-slate-900 flex items-center justify-center">
+          <i data-lucide="x" class="w-6 h-6"></i>
+        </button>
+        <div class="max-h-[65vh] overflow-hidden bg-slate-900 flex items-center justify-center">
+          <img id="lightbox-img" src="" alt="Dish preview" class="max-w-full max-h-[65vh] object-contain" />
+        </div>
+        <div class="p-6">
+          <h3 id="lightbox-title" class="font-display text-xl font-bold text-slate-900"></h3>
+          <p id="lightbox-desc" class="text-sm text-slate-600 mt-1"></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- CUSTOM WHATSAPP ORDER BUILDER MODAL -->
+    <div id="custom-order-modal" class="fixed inset-0 z-50 hidden flex items-center justify-center p-4">
+      <div class="absolute inset-0 bg-slate-950/70 backdrop-blur-sm" id="close-custom-order-backdrop"></div>
+      <div class="relative z-10 max-w-lg w-full bg-white rounded-3xl p-6 sm:p-8 shadow-2xl border border-slate-100">
+        <div class="flex items-center justify-between pb-4 border-b border-slate-100">
+          <h3 class="font-display text-xl font-bold text-slate-900">Build WhatsApp Order</h3>
+          <button id="close-custom-order" type="button" aria-label="Close modal" class="p-2 rounded-lg text-slate-500 hover:bg-slate-100">
+            <i data-lucide="x" class="w-6 h-6"></i>
+          </button>
+        </div>
+        <div class="space-y-4 py-4">
+          <div>
+            <label for="order-cust-name" class="block text-xs font-bold text-slate-700 uppercase mb-1">Your Name</label>
+            <input type="text" id="order-cust-name" placeholder="e.g. Priya M." class="w-full px-4 py-2.5 rounded-xl border border-slate-300 text-sm" />
+          </div>
+          <div>
+            <label for="order-cust-address" class="block text-xs font-bold text-slate-700 uppercase mb-1">Delivery Address / Landmark</label>
+            <input type="text" id="order-cust-address" placeholder="e.g. Nagawara, Vyalikaval HBCS Layout" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 text-sm" />
+          </div>
+          <div>
+            <label for="order-cust-items" class="block text-xs font-bold text-slate-700 uppercase mb-1">Dishes & Quantity *</label>
+            <textarea id="order-cust-items" rows="4" placeholder="e.g.
+2 x Ghee Karam Dosa
+1 x Spicy Chicken Roll
+2 x Filter Coffee" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 text-sm"></textarea>
+          </div>
+        </div>
+        <div class="flex gap-3 pt-2">
+          <button id="send-custom-order-btn" type="button" class="w-full py-3.5 px-6 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-sm shadow-md flex items-center justify-center gap-2">
+            <i data-lucide="message-circle" class="w-5 h-5"></i>
+            <span>Send Order via WhatsApp</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
